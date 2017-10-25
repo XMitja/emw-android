@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EMW</string>
+    <string name="Connected">Connected</string>
+    <string name="Connecting">Connecting</string>
+    <string name="Searching">Searching</string>
+    <string name="BluetoothNotEnabled">Bluetooth Not Enabled</string>
+    <string name="BLENotSupported">Bluetooth Smart not supported on device</string>
+    <string name="MIN">MIN</string>
+    <string name="MAX">MAX</string>
+    <string name="HIGH">High</string>
+    <string name="MID">Mid</string>
+    <string name="LOW">Low</string>
+    <string name="LINE">Line</string>
+    <string name="TRIP">Trip</string>
+    <string-array name="patternTypes">
+        <item>Non-Repeating</item>
+        <item>Repeating</item>
+        <item>Timeout Test</item>
+    </string-array>
+
+</resources>

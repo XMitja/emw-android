@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="asia.eyekandi.emw.MainActivity">
+    <item
+        android:id="@+id/action_crash"
+        android:orderInCategory="100"
+        android:title="Force Crash"
+        app:showAsAction="never"
+        tools:ignore="HardcodedText" />
+</menu>
